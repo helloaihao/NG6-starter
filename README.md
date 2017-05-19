@@ -75,6 +75,7 @@ services, and specs. This encapsulation allows us the comfort of isolation and s
 looks:
 ```
 client
+
 ⋅⋅app/
 ⋅⋅⋅⋅app.js * app entry file
 ⋅⋅⋅⋅app.html * app template
